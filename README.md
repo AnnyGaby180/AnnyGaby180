@@ -16,7 +16,7 @@ Olá! Sou Anny, uma entusiasta da tecnologia apaixonada por desenvolvimento de s
 
 ## Contato
 - 📧 Email: annytecnologia@hotmail.com
-- 💼 LinkedIn: [Seu Perfil do LinkedIn]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/anny-gabryelly-ferreira-8100261a1/))
+- 💼 LinkedIn: (https://www.linkedin.com/in/anny-gabryelly-ferreira-8100261a1/)
 
 
 ## Contribua com Meus Projetos
